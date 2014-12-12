@@ -3,34 +3,30 @@ from pymongo import MongoClient;
 def CreateTriviaQuestions():
     collection = getCollection();
 
-    questions = [];
-    
     question0 = {
-        'id': 0,
-        'question': 'What year was the Battle of Hastings?',
+        'questionID': 0,
+        'text': 'What year was the Battle of Hastings?',
         'answer': '1066',
     };
-    questions.append(question0);
+    collection.insert(question0);
 
     question1 = {
-        'id': 1,
-        'question': 'In what country did the Battle of Hastings take place?',
+        'questionID': 1,
+        'text': 'In what country did the Battle of Hastings take place?',
         'answer': 'England',
     };
-    questions.append(question1);
 
-    questionsDoc = {
-        'title': 'Trivia',
-        'questions': questions,
-    };
-
-    collection.insert(questionsDoc);
+    collection.insert(question1);
 
     return;
 
-def GetQuestionsDoc():
+def GetQuestions():
     collection = getCollection();
-    return collection.find_one();
+    return collection.find();
+
+def GetQuestion(questionID):
+    collection = getCollection();
+    return collection.find_one({'questionID':questionID});
 
 def getCollection():
     client = MongoClient('mongodb://PythonFlaskMongo:TxrbWR1nYzW_kS_TlaWL43Y0x7JHxHrWDgIsAyMMub8-@ds045097.mongolab.com:45097/PythonFlaskMongo');
