@@ -18,6 +18,15 @@
     <RootNamespace>PollsSample</RootNamespace>
     <InterpreterId>{d287a058-ef63-478f-b458-5f32d5a97f99}</InterpreterId>
     <InterpreterVersion>3.4</InterpreterVersion>
+    <PythonRunWebServerCommandArguments>--debug $(CommandLineArguments)</PythonRunWebServerCommandArguments>
+    <PythonRunWebServerCommandEnvironment>REPOSITORY_NAME=mongodb
+MONGODB_HOST=mongodb://PythonFlaskMongo:TxrbWR1nYzW_kS_TlaWL43Y0x7JHxHrWDgIsAyMMub8-@ds045097.mongolab.com:45097/PythonFlaskMongo
+MONGODB_DATABASE=PythonFlaskMongo</PythonRunWebServerCommandEnvironment>
+    <PythonDebugWebServerCommandArguments>--debug $(CommandLineArguments)</PythonDebugWebServerCommandArguments>
+    <PythonDebugWebServerCommandEnvironment>REPOSITORY_NAME=mongodb
+MONGODB_HOST=mongodb://PythonFlaskMongo:TxrbWR1nYzW_kS_TlaWL43Y0x7JHxHrWDgIsAyMMub8-@ds045097.mongolab.com:45097/PythonFlaskMongo
+MONGODB_DATABASE=PythonFlaskMongo</PythonDebugWebServerCommandEnvironment>
+    <NameOfLastUsedPublishProfile>TestPythonFlask</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -48,6 +57,8 @@
     <Folder Include="PollsSample\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="TestPythonFlask.pubxml" />
+    <None Include="pythonflask.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="PollsSample\models\samples.json" />
     <Content Include="PollsSample\static\content\bootstrap.css" />

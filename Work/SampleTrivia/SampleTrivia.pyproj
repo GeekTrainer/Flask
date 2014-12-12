@@ -4,7 +4,7 @@
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>8c8d2191-1be4-4dd2-acd1-4fe363c7318a</ProjectGuid>
+    <ProjectGuid>3e7eae6e-d853-4bb6-9fbe-950226d10e64</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <ProjectTypeGuids>{789894c7-04a9-4a11-a6b5-3f4435165112};{1b580a1a-fdb3-4b32-83e1-6407eb2722e6};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
     <StartupFile>app.py</StartupFile>
@@ -13,11 +13,10 @@
     <WorkingDirectory>.</WorkingDirectory>
     <LaunchProvider>Web launcher</LaunchProvider>
     <OutputPath>.</OutputPath>
-    <StaticUriPattern>^/static/.*</StaticUriPattern>
     <PythonWsgiHandler>{StartupModule}.wsgi_app</PythonWsgiHandler>
-    <Name>Jinja</Name>
-    <RootNamespace>Jinja</RootNamespace>
-    <InterpreterId>{1afeabbb-9efb-4b18-81ae-3d8752d177a3}</InterpreterId>
+    <Name>SampleTrivia</Name>
+    <RootNamespace>SampleTrivia</RootNamespace>
+    <InterpreterId>{c5573f0d-dfa2-4f28-9ff4-026e5e08b99e}</InterpreterId>
     <InterpreterVersion>3.4</InterpreterVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -30,47 +29,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
-    <Compile Include="routes.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="static\" />
-    <Folder Include="static\content\" />
-    <Folder Include="static\fonts\" />
-    <Folder Include="static\scripts\" />
-    <Folder Include="templates\" />
+    <Compile Include="mongo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="routes.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
-    <Content Include="static\content\bootstrap.css" />
-    <Content Include="static\content\bootstrap.min.css" />
-    <Content Include="static\content\site.css" />
-    <Content Include="static\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="static\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="static\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="static\fonts\glyphicons-halflings-regular.woff" />
-    <Content Include="static\scripts\bootstrap.js" />
-    <Content Include="static\scripts\bootstrap.min.js" />
-    <Content Include="static\scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="static\scripts\jquery-1.10.2.js" />
-    <Content Include="static\scripts\jquery-1.10.2.min.js" />
-    <Content Include="static\scripts\jquery-1.10.2.min.map" />
-    <Content Include="static\scripts\jquery.validate-vsdoc.js" />
-    <Content Include="static\scripts\jquery.validate.js" />
-    <Content Include="static\scripts\jquery.validate.min.js" />
-    <Content Include="static\scripts\jquery.validate.unobtrusive.js" />
-    <Content Include="static\scripts\jquery.validate.unobtrusive.min.js" />
-    <Content Include="static\scripts\modernizr-2.6.2.js" />
-    <Content Include="static\scripts\respond.js" />
-    <Content Include="static\scripts\respond.min.js" />
-    <Content Include="static\scripts\_references.js" />
-    <Content Include="templates\about.html" />
-    <Content Include="templates\contact.html" />
-    <Content Include="templates\index.html" />
-    <Content Include="templates\layout.html" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
-      <Id>{1afeabbb-9efb-4b18-81ae-3d8752d177a3}</Id>
+      <Id>{c5573f0d-dfa2-4f28-9ff4-026e5e08b99e}</Id>
       <BaseInterpreter>{2af0f10d-7135-4994-9156-5d01c9c11b7e}</BaseInterpreter>
       <Version>3.4</Version>
       <Description>env (Python 3.4)</Description>

@@ -1,13 +1,10 @@
 from flask import Flask
-
-# If you get an error on the next line on Python 3.4.0, change to: Flask('app')
-# where app matches the name of this file without the .py extension.
 app = Flask(__name__)
 
-from routes import *
-
 # Make the WSGI interface available at the top level so wfastcgi can get it.
-wsgi_app = app
+wsgi_app = app.wsgi_app
+
+from routes import *
 
 if __name__ == '__main__':
     import os
