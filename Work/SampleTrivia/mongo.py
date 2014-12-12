@@ -28,7 +28,7 @@ def CreateTriviaQuestions():
 
     return;
 
-def GetAllQuestions():
+def GetQuestionsDoc():
     collection = getCollection();
     return collection.find_one();
 

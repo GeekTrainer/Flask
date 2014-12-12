@@ -14,7 +14,7 @@ def Create():
 
 @app.route('/Questions')
 def Questions():
-    questionsDoc = GetAllQuestions();
+    questionsDoc = GetQuestionsDoc();
     output = '';
     for question in questionsDoc['questions']:
         output += question['question'] + '<br />';
