@@ -35,3 +35,14 @@ def Question(questionID):
                                question = question,
                                correct = correct,
                                submittedAnswer = submittedAnswer);
+
+@app.route('/New', methods=['GET', 'POST'])
+def New():
+    if request.method == 'GET':
+        return render_template('create.html');
+    elif request.method == 'POST':
+        text = request.form['text'];
+        answer = request.form['answer'];
+        AddQuestion(text, answer);
+        return render_template('submitted.html',
+                                text = text);

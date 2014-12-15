@@ -28,9 +28,19 @@ def GetQuestion(questionID):
     collection = getCollection();
     return collection.find_one({'questionID':questionID});
 
+def AddQuestion(text, answer):
+    collection = getCollection();
+    newID = collection.find().count();
+    question = {
+        'questionID' : newID,
+        'text': text,
+        'answer': answer,
+    };
+    collection.insert(question);
+    return;
+
 def getCollection():
     client = MongoClient('mongodb://PythonFlaskMongo:TxrbWR1nYzW_kS_TlaWL43Y0x7JHxHrWDgIsAyMMub8-@ds045097.mongolab.com:45097/PythonFlaskMongo');
     database = client['PythonFlaskMongo'];
     collection = database['Questions'];
-
     return collection;
