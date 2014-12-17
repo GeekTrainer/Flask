@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="c:\users\chrhar\documents\visual studio 2013\Projects\TriviaMVA\TriviaMVA\env"
+$env:VIRTUAL_ENV="C:\Users\sibach\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env"
 
 # Set the prompt to include the env name
 # Make sure _OLD_VIRTUAL_PROMPT is global

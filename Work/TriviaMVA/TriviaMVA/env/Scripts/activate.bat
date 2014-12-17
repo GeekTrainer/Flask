@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=c:\users\chrhar\documents\visual studio 2013\Projects\TriviaMVA\TriviaMVA\env"
+set "VIRTUAL_ENV=C:\Users\sibach\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env"
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
