@@ -34,11 +34,11 @@ def submit():
     elif request.method == 'POST':
         question = request.form['question'];
         answer = request.form['answer'];
-        title = request.title['title'];
+        title = request.form['title'];
 
         # Redis code to save question and answer
         
 
-        return render_template('QuestionCreated.html',
+        return render_template('CreatedQuestion.html',
                                question = question);
     return;
