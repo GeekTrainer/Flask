@@ -1,0 +1,1546 @@
+﻿
+2014-12-17T10:17:49: Start analysis
+2014-12-17T10:17:49: IncludeModulesFromModulePath = win32com
+2014-12-17T10:17:50: Deleting 0 files
+2014-12-17T10:17:50: Scraping builtin modules
+2014-12-17T10:17:50: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\PythonScraper.py" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB"
+2014-12-17T10:17:51: Output
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\xxsubtype.idb
+2014-12-17T10:17:51: Scraped builtin modules
+2014-12-17T10:17:51: Scraping pyexpat
+2014-12-17T10:17:51: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape pyexpat "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\pyexpat"
+2014-12-17T10:17:51: Scraping select
+2014-12-17T10:17:51: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape select "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\select"
+2014-12-17T10:17:51: Scraping unicodedata
+2014-12-17T10:17:51: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape unicodedata "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\unicodedata"
+2014-12-17T10:17:51: Scraping winsound
+2014-12-17T10:17:51: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape winsound "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\winsound"
+2014-12-17T10:17:52: Scraping _bz2
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _bz2 "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_bz2"
+2014-12-17T10:17:52: Scraping _ctypes
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _ctypes "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_ctypes"
+2014-12-17T10:17:52: Scraping _ctypes_test
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _ctypes_test "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_ctypes_test"
+2014-12-17T10:17:52: Scraping _decimal
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _decimal "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_decimal"
+2014-12-17T10:17:52: Scraping _elementtree
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _elementtree "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_elementtree"
+2014-12-17T10:17:52: Scraping _hashlib
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _hashlib "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_hashlib"
+2014-12-17T10:17:52: Scraping _lzma
+2014-12-17T10:17:52: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _lzma "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_lzma"
+2014-12-17T10:17:53: Scraping _msi
+2014-12-17T10:17:53: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _msi "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_msi"
+2014-12-17T10:17:53: Scraping _multiprocessing
+2014-12-17T10:17:53: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _multiprocessing "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_multiprocessing"
+2014-12-17T10:17:53: Scraping _overlapped
+2014-12-17T10:17:53: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _overlapped "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_overlapped"
+2014-12-17T10:17:53: Scraping _socket
+2014-12-17T10:17:53: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _socket "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_socket"
+2014-12-17T10:17:53: Scraping _sqlite3
+2014-12-17T10:17:53: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _sqlite3 "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_sqlite3"
+2014-12-17T10:17:53: Scraping _ssl
+2014-12-17T10:17:53: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _ssl "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_ssl"
+2014-12-17T10:17:54: Scraping _testbuffer
+2014-12-17T10:17:54: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _testbuffer "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_testbuffer"
+2014-12-17T10:17:54: Scraping _testcapi
+2014-12-17T10:17:54: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _testcapi "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_testcapi"
+2014-12-17T10:17:54: Scraping _testimportmultiple
+2014-12-17T10:17:54: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _testimportmultiple "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_testimportmultiple"
+2014-12-17T10:17:54: Scraping _tkinter
+2014-12-17T10:17:54: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _tkinter "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_tkinter"
+2014-12-17T10:17:54: Scraped 21 files
+2014-12-17T10:17:54: astropy.CallDepth = 0
+2014-12-17T10:17:54: matplotlib.CallDepth = 3
+2014-12-17T10:17:54: pandas.CallDepth = 0
+2014-12-17T10:17:54: sympy.CallDepth = 0
+2014-12-17T10:17:54: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages" with 2 files
+2014-12-17T10:17:55: Parsing "easy_install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\easy_install.py")
+2014-12-17T10:17:55: Parsing "pkg_resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pkg_resources.py")
+2014-12-17T10:17:55: Parsing complete
+2014-12-17T10:17:55: Analyzing "easy_install"
+2014-12-17T10:17:55: Analyzing "pkg_resources"
+2014-12-17T10:17:55: Starting analysis of 2 modules
+2014-12-17T10:17:56: Analysis complete
+2014-12-17T10:17:56: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages"
+2014-12-17T10:17:56: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages"
+2014-12-17T10:17:56: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip" with 178 files
+2014-12-17T10:17:57: Parsing "pip.basecommand" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\basecommand.py")
+2014-12-17T10:17:57: Parsing "pip.baseparser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\baseparser.py")
+2014-12-17T10:17:57: Parsing "pip.cmdoptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\cmdoptions.py")
+2014-12-17T10:17:57: Parsing "pip.download" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\download.py")
+2014-12-17T10:17:57: Parsing "pip.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\exceptions.py")
+2014-12-17T10:17:57: Parsing "pip.index" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\index.py")
+2014-12-17T10:17:57: Parsing "pip.locations" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\locations.py")
+2014-12-17T10:17:57: Parsing "pip.log" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\log.py")
+2014-12-17T10:17:57: Parsing "pip.pep425tags" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\pep425tags.py")
+2014-12-17T10:17:57: Parsing "pip.req" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\req.py")
+2014-12-17T10:17:57: Parsing "pip.runner" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\runner.py")
+2014-12-17T10:17:57: Parsing "pip.status_codes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\status_codes.py")
+2014-12-17T10:17:57: Parsing "pip.util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\util.py")
+2014-12-17T10:17:57: Parsing "pip.wheel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\wheel.py")
+2014-12-17T10:17:57: Parsing "pip" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\__init__.py")
+2014-12-17T10:17:57: Parsing "pip.__main__" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\__main__.py")
+2014-12-17T10:17:57: Parsing "pip.backwardcompat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\backwardcompat\__init__.py")
+2014-12-17T10:17:57: Parsing "pip.commands.bundle" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\bundle.py")
+2014-12-17T10:17:57: Parsing "pip.commands.completion" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\completion.py")
+2014-12-17T10:17:57: Parsing "pip.commands.freeze" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\freeze.py")
+2014-12-17T10:17:57: Parsing "pip.commands.help" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\help.py")
+2014-12-17T10:17:57: Parsing "pip.commands.install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\install.py")
+2014-12-17T10:17:57: Parsing "pip.commands.list" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\list.py")
+2014-12-17T10:17:57: Parsing "pip.commands.search" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\search.py")
+2014-12-17T10:17:57: Parsing "pip.commands.show" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\show.py")
+2014-12-17T10:17:57: Parsing "pip.commands.uninstall" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\uninstall.py")
+2014-12-17T10:17:57: Parsing "pip.commands.unzip" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\unzip.py")
+2014-12-17T10:17:57: Parsing "pip.commands.wheel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\wheel.py")
+2014-12-17T10:17:57: Parsing "pip.commands.zip" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\zip.py")
+2014-12-17T10:17:57: Parsing "pip.commands" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\__init__.py")
+2014-12-17T10:17:57: Parsing "pip.vcs.bazaar" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\bazaar.py")
+2014-12-17T10:17:57: Parsing "pip.vcs.git" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\git.py")
+2014-12-17T10:17:57: Parsing "pip.vcs.mercurial" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\mercurial.py")
+2014-12-17T10:17:57: Parsing "pip.vcs.subversion" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\subversion.py")
+2014-12-17T10:17:57: Parsing "pip.vcs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.pkg_resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\pkg_resources.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.six" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\six.py")
+2014-12-17T10:17:57: Parsing "pip._vendor" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.colorama.ansi" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.colorama.initialise" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.colorama.win32" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.colorama.winterm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.colorama" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.database" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.index" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.locators" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.manifest" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.markers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.metadata" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.scripts" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.version" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib.wheel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.distlib._backport" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.constants" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.ihatexml" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.inputstream" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.sanitizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.tokenizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.filters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treebuilders._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.trie.datrie" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.trie.py" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.trie._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.html5lib.trie" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2014-12-17T10:17:57: Parsing "pip._vendor.requests.adapters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.api" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.auth" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.certs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.cookies" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.hooks" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.models" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.sessions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.status_codes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.structures" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.constants" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.escprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.escsm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.chardet" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.connection" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.fields" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.request" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.response" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3._collections" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.packages" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2014-12-17T10:17:58: Parsing "pip._vendor.requests.packages.urllib3.util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2014-12-17T10:17:58: Parsing "pip._vendor._markerlib.markers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2014-12-17T10:17:58: Parsing "pip._vendor._markerlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2014-12-17T10:17:58: Parsing complete
+2014-12-17T10:17:58: Analyzing "pip.basecommand"
+2014-12-17T10:17:58: Analyzing "pip.baseparser"
+2014-12-17T10:17:58: Analyzing "pip.cmdoptions"
+2014-12-17T10:17:58: Analyzing "pip.download"
+2014-12-17T10:17:58: Analyzing "pip.exceptions"
+2014-12-17T10:17:58: Analyzing "pip.index"
+2014-12-17T10:17:58: Analyzing "pip.locations"
+2014-12-17T10:17:58: Analyzing "pip.log"
+2014-12-17T10:17:58: Analyzing "pip.pep425tags"
+2014-12-17T10:17:58: Analyzing "pip.req"
+2014-12-17T10:17:58: Analyzing "pip.runner"
+2014-12-17T10:17:58: Analyzing "pip.status_codes"
+2014-12-17T10:17:58: Analyzing "pip.util"
+2014-12-17T10:17:58: Analyzing "pip.wheel"
+2014-12-17T10:17:58: Analyzing "pip"
+2014-12-17T10:17:58: Analyzing "pip.__main__"
+2014-12-17T10:17:58: Analyzing "pip.backwardcompat"
+2014-12-17T10:17:58: Analyzing "pip.commands.bundle"
+2014-12-17T10:17:58: Analyzing "pip.commands.completion"
+2014-12-17T10:17:58: Analyzing "pip.commands.freeze"
+2014-12-17T10:17:58: Analyzing "pip.commands.help"
+2014-12-17T10:17:58: Analyzing "pip.commands.install"
+2014-12-17T10:17:58: Analyzing "pip.commands.list"
+2014-12-17T10:17:58: Analyzing "pip.commands.search"
+2014-12-17T10:17:58: Analyzing "pip.commands.show"
+2014-12-17T10:17:58: Analyzing "pip.commands.uninstall"
+2014-12-17T10:17:58: Analyzing "pip.commands.unzip"
+2014-12-17T10:17:58: Analyzing "pip.commands.wheel"
+2014-12-17T10:17:58: Analyzing "pip.commands.zip"
+2014-12-17T10:17:58: Analyzing "pip.commands"
+2014-12-17T10:17:58: Analyzing "pip.vcs.bazaar"
+2014-12-17T10:17:58: Analyzing "pip.vcs.git"
+2014-12-17T10:17:58: Analyzing "pip.vcs.mercurial"
+2014-12-17T10:17:58: Analyzing "pip.vcs.subversion"
+2014-12-17T10:17:58: Analyzing "pip.vcs"
+2014-12-17T10:17:58: Analyzing "pip._vendor.pkg_resources"
+2014-12-17T10:17:58: Analyzing "pip._vendor.six"
+2014-12-17T10:17:58: Analyzing "pip._vendor"
+2014-12-17T10:17:58: Analyzing "pip._vendor.colorama.ansi"
+2014-12-17T10:17:58: Analyzing "pip._vendor.colorama.ansitowin32"
+2014-12-17T10:17:58: Analyzing "pip._vendor.colorama.initialise"
+2014-12-17T10:17:58: Analyzing "pip._vendor.colorama.win32"
+2014-12-17T10:17:58: Analyzing "pip._vendor.colorama.winterm"
+2014-12-17T10:17:58: Analyzing "pip._vendor.colorama"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.compat"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.database"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.index"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.locators"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.manifest"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.markers"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.metadata"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.resources"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.scripts"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.util"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.version"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib.wheel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib._backport.misc"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib._backport.shutil"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib._backport.tarfile"
+2014-12-17T10:17:58: Analyzing "pip._vendor.distlib._backport"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.constants"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.html5parser"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.ihatexml"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.inputstream"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.sanitizer"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.tokenizer"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.utils"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters.lint"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters._base"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.filters"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.serializer"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treeadapters"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treebuilders"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.treewalkers"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.trie.datrie"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.trie.py"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.trie._base"
+2014-12-17T10:17:58: Analyzing "pip._vendor.html5lib.trie"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.adapters"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.api"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.auth"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.certs"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.compat"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.cookies"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.exceptions"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.hooks"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.models"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.sessions"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.status_codes"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.structures"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.utils"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.chardet"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2014-12-17T10:17:58: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2014-12-17T10:17:58: Analyzing "pip._vendor._markerlib.markers"
+2014-12-17T10:17:58: Analyzing "pip._vendor._markerlib"
+2014-12-17T10:17:58: Starting analysis of 178 modules
+2014-12-17T10:18:03: Analysis complete
+2014-12-17T10:18:03: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip"
+2014-12-17T10:18:04: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip"
+2014-12-17T10:18:04: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools" with 55 files
+2014-12-17T10:18:06: Parsing "setuptools.archive_util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\archive_util.py")
+2014-12-17T10:18:06: Parsing "setuptools.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\compat.py")
+2014-12-17T10:18:06: Parsing "setuptools.depends" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\depends.py")
+2014-12-17T10:18:06: Parsing "setuptools.dist" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\dist.py")
+2014-12-17T10:18:06: Parsing "setuptools.extension" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\extension.py")
+2014-12-17T10:18:06: Parsing "setuptools.lib2to3_ex" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2014-12-17T10:18:06: Parsing "setuptools.package_index" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\package_index.py")
+2014-12-17T10:18:06: Parsing "setuptools.py26compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\py26compat.py")
+2014-12-17T10:18:06: Parsing "setuptools.py27compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\py27compat.py")
+2014-12-17T10:18:06: Parsing "setuptools.py31compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\py31compat.py")
+2014-12-17T10:18:06: Parsing "setuptools.sandbox" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\sandbox.py")
+2014-12-17T10:18:06: Parsing "setuptools.ssl_support" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\ssl_support.py")
+2014-12-17T10:18:06: Parsing "setuptools.svn_utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\svn_utils.py")
+2014-12-17T10:18:06: Parsing "setuptools.version" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\version.py")
+2014-12-17T10:18:06: Parsing "setuptools" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\__init__.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.alias" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\alias.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.bdist_egg" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.bdist_rpm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.bdist_wininst" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.build_ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\build_ext.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.build_py" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\build_py.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.develop" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\develop.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.easy_install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\easy_install.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.egg_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\egg_info.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.install_egg_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.install_lib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install_lib.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.install_scripts" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.register" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\register.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.rotate" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\rotate.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.saveopts" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\saveopts.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.sdist" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\sdist.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.setopt" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\setopt.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.test" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\test.py")
+2014-12-17T10:18:06: Parsing "setuptools.command.upload_docs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2014-12-17T10:18:06: Parsing "setuptools.command" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\__init__.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.doctest" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\doctest.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.environment" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\environment.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.py26compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\py26compat.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.server" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\server.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_bdist_egg" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_build_ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_develop" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_develop.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_dist_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_easy_install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_egg_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_markerlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_packageindex" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_resources.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_sandbox" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_sdist" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_sdist.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_svn" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_svn.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_test" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_test.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests.test_upload_docs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2014-12-17T10:18:06: Parsing "setuptools.tests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\__init__.py")
+2014-12-17T10:18:06: Parsing complete
+2014-12-17T10:18:06: Analyzing "setuptools.archive_util"
+2014-12-17T10:18:06: Analyzing "setuptools.compat"
+2014-12-17T10:18:06: Analyzing "setuptools.depends"
+2014-12-17T10:18:06: Analyzing "setuptools.dist"
+2014-12-17T10:18:06: Analyzing "setuptools.extension"
+2014-12-17T10:18:06: Analyzing "setuptools.lib2to3_ex"
+2014-12-17T10:18:06: Analyzing "setuptools.package_index"
+2014-12-17T10:18:06: Analyzing "setuptools.py26compat"
+2014-12-17T10:18:06: Analyzing "setuptools.py27compat"
+2014-12-17T10:18:06: Analyzing "setuptools.py31compat"
+2014-12-17T10:18:06: Analyzing "setuptools.sandbox"
+2014-12-17T10:18:06: Analyzing "setuptools.ssl_support"
+2014-12-17T10:18:06: Analyzing "setuptools.svn_utils"
+2014-12-17T10:18:06: Analyzing "setuptools.version"
+2014-12-17T10:18:06: Analyzing "setuptools"
+2014-12-17T10:18:06: Analyzing "setuptools.command.alias"
+2014-12-17T10:18:06: Analyzing "setuptools.command.bdist_egg"
+2014-12-17T10:18:06: Analyzing "setuptools.command.bdist_rpm"
+2014-12-17T10:18:06: Analyzing "setuptools.command.bdist_wininst"
+2014-12-17T10:18:06: Analyzing "setuptools.command.build_ext"
+2014-12-17T10:18:06: Analyzing "setuptools.command.build_py"
+2014-12-17T10:18:06: Analyzing "setuptools.command.develop"
+2014-12-17T10:18:06: Analyzing "setuptools.command.easy_install"
+2014-12-17T10:18:06: Analyzing "setuptools.command.egg_info"
+2014-12-17T10:18:06: Analyzing "setuptools.command.install"
+2014-12-17T10:18:06: Analyzing "setuptools.command.install_egg_info"
+2014-12-17T10:18:06: Analyzing "setuptools.command.install_lib"
+2014-12-17T10:18:06: Analyzing "setuptools.command.install_scripts"
+2014-12-17T10:18:06: Analyzing "setuptools.command.register"
+2014-12-17T10:18:06: Analyzing "setuptools.command.rotate"
+2014-12-17T10:18:06: Analyzing "setuptools.command.saveopts"
+2014-12-17T10:18:06: Analyzing "setuptools.command.sdist"
+2014-12-17T10:18:06: Analyzing "setuptools.command.setopt"
+2014-12-17T10:18:06: Analyzing "setuptools.command.test"
+2014-12-17T10:18:06: Analyzing "setuptools.command.upload_docs"
+2014-12-17T10:18:06: Analyzing "setuptools.command"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.doctest"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.environment"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.py26compat"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.server"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_bdist_egg"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_build_ext"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_develop"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_dist_info"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_easy_install"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_egg_info"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_markerlib"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_packageindex"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_resources"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_sandbox"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_sdist"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_svn"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_test"
+2014-12-17T10:18:06: Analyzing "setuptools.tests.test_upload_docs"
+2014-12-17T10:18:06: Analyzing "setuptools.tests"
+2014-12-17T10:18:06: Starting analysis of 55 modules
+2014-12-17T10:18:07: Analysis complete
+2014-12-17T10:18:07: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools"
+2014-12-17T10:18:07: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools"
+2014-12-17T10:18:07: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib" with 2 files
+2014-12-17T10:18:08: Parsing "_markerlib.markers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib\markers.py")
+2014-12-17T10:18:08: Parsing "_markerlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib\__init__.py")
+2014-12-17T10:18:08: Parsing complete
+2014-12-17T10:18:08: Analyzing "_markerlib.markers"
+2014-12-17T10:18:08: Analyzing "_markerlib"
+2014-12-17T10:18:08: Starting analysis of 2 modules
+2014-12-17T10:18:08: Analysis complete
+2014-12-17T10:18:08: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib"
+2014-12-17T10:18:09: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib"
+2014-12-17T10:18:09: Deleting 319 files
+2014-12-17T10:18:10: Scraping builtin modules
+2014-12-17T10:18:10: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\PythonScraper.py" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB"
+2014-12-17T10:18:11: Output
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\xxsubtype.idb
+2014-12-17T10:18:11: Scraped builtin modules
+2014-12-17T10:18:11: Scraping pyexpat
+2014-12-17T10:18:11: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape pyexpat "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\pyexpat"
+2014-12-17T10:18:11: Scraping select
+2014-12-17T10:18:11: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape select "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\select"
+2014-12-17T10:18:11: Scraping unicodedata
+2014-12-17T10:18:11: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape unicodedata "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\unicodedata"
+2014-12-17T10:18:12: Scraping winsound
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape winsound "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\winsound"
+2014-12-17T10:18:12: Scraping _bz2
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _bz2 "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_bz2"
+2014-12-17T10:18:12: Scraping _ctypes
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _ctypes "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_ctypes"
+2014-12-17T10:18:12: Scraping _ctypes_test
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _ctypes_test "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_ctypes_test"
+2014-12-17T10:18:12: Scraping _decimal
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _decimal "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_decimal"
+2014-12-17T10:18:12: Scraping _elementtree
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _elementtree "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_elementtree"
+2014-12-17T10:18:12: Scraping _hashlib
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _hashlib "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_hashlib"
+2014-12-17T10:18:12: Scraping _lzma
+2014-12-17T10:18:12: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _lzma "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_lzma"
+2014-12-17T10:18:13: Scraping _msi
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _msi "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_msi"
+2014-12-17T10:18:13: Scraping _multiprocessing
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _multiprocessing "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_multiprocessing"
+2014-12-17T10:18:13: Scraping _overlapped
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _overlapped "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_overlapped"
+2014-12-17T10:18:13: Scraping _socket
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _socket "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_socket"
+2014-12-17T10:18:13: Scraping _sqlite3
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _sqlite3 "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_sqlite3"
+2014-12-17T10:18:13: Scraping _ssl
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _ssl "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_ssl"
+2014-12-17T10:18:13: Scraping _testbuffer
+2014-12-17T10:18:13: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _testbuffer "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_testbuffer"
+2014-12-17T10:18:14: Scraping _testcapi
+2014-12-17T10:18:14: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _testcapi "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_testcapi"
+2014-12-17T10:18:14: Scraping _testimportmultiple
+2014-12-17T10:18:14: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _testimportmultiple "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_testimportmultiple"
+2014-12-17T10:18:14: Scraping _tkinter
+2014-12-17T10:18:14: Command: "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts\python.exe" "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\ExtensionScraper.py" scrape _tkinter "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Scripts" "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\.ptvs\_tkinter"
+2014-12-17T10:18:14: Scraped 21 files
+2014-12-17T10:18:14: astropy.CallDepth = 0
+2014-12-17T10:18:14: matplotlib.CallDepth = 3
+2014-12-17T10:18:14: pandas.CallDepth = 0
+2014-12-17T10:18:14: sympy.CallDepth = 0
+2014-12-17T10:18:14: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages" with 3 files
+2014-12-17T10:18:15: Parsing "easy_install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\easy_install.py")
+2014-12-17T10:18:15: Parsing "itsdangerous" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\itsdangerous.py")
+2014-12-17T10:18:15: Parsing "pkg_resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pkg_resources.py")
+2014-12-17T10:18:15: Parsing complete
+2014-12-17T10:18:15: Analyzing "easy_install"
+2014-12-17T10:18:15: Analyzing "itsdangerous"
+2014-12-17T10:18:15: Analyzing "pkg_resources"
+2014-12-17T10:18:15: Starting analysis of 3 modules
+2014-12-17T10:18:15: Analysis complete
+2014-12-17T10:18:15: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages"
+2014-12-17T10:18:15: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages"
+2014-12-17T10:18:15: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask" with 59 files
+2014-12-17T10:18:17: Parsing "flask.app" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\app.py")
+2014-12-17T10:18:17: Parsing "flask.blueprints" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\blueprints.py")
+2014-12-17T10:18:17: Parsing "flask.config" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\config.py")
+2014-12-17T10:18:17: Parsing "flask.ctx" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\ctx.py")
+2014-12-17T10:18:17: Parsing "flask.debughelpers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\debughelpers.py")
+2014-12-17T10:18:17: Parsing "flask.exthook" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\exthook.py")
+2014-12-17T10:18:17: Parsing "flask.globals" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\globals.py")
+2014-12-17T10:18:17: Parsing "flask.helpers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\helpers.py")
+2014-12-17T10:18:17: Parsing "flask.json" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\json.py")
+2014-12-17T10:18:17: Parsing "flask.logging" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\logging.py")
+2014-12-17T10:18:17: Parsing "flask.module" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\module.py")
+2014-12-17T10:18:17: Parsing "flask.sessions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\sessions.py")
+2014-12-17T10:18:17: Parsing "flask.signals" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\signals.py")
+2014-12-17T10:18:17: Parsing "flask.templating" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\templating.py")
+2014-12-17T10:18:17: Parsing "flask.testing" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testing.py")
+2014-12-17T10:18:17: Parsing "flask.views" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\views.py")
+2014-12-17T10:18:17: Parsing "flask.wrappers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\wrappers.py")
+2014-12-17T10:18:17: Parsing "flask._compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\_compat.py")
+2014-12-17T10:18:17: Parsing "flask" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\ext\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.appctx" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\appctx.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.basic" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\basic.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.blueprints" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\blueprints.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.config" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\config.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.deprecations" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\deprecations.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.examples" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\examples.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\ext.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.helpers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\helpers.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.regression" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\regression.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.reqctx" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\reqctx.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.signals" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\signals.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.subclassing" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\subclassing.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.templating" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\templating.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.testing" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\testing.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.views" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\views.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.config_module_app" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\config_module_app.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flask_newext_simple" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flask_newext_simple.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.importerror" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\importerror.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.main_app" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\main_app.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.blueprintapp" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\blueprintapp\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.blueprintapp.apps" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\blueprintapp\apps\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.blueprintapp.apps.admin" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\blueprintapp\apps\admin\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.blueprintapp.apps.frontend" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\blueprintapp\apps\frontend\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.config_package_app" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\config_package_app\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flaskext.oldext_simple" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flaskext\oldext_simple.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flaskext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flaskext\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flaskext.oldext_package.submodule" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flaskext\oldext_package\submodule.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flaskext.oldext_package" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flaskext\oldext_package\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flask_broken.b" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flask_broken\b.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flask_broken" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flask_broken\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flask_newext_package.submodule" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flask_newext_package\submodule.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.flask_newext_package" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\flask_newext_package\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.moduleapp" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\moduleapp\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.moduleapp.apps" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\moduleapp\apps\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.moduleapp.apps.admin" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\moduleapp\apps\admin\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.moduleapp.apps.frontend" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\moduleapp\apps\frontend\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.path.installed_package" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\path\installed_package\__init__.py")
+2014-12-17T10:18:17: Parsing "flask.testsuite.test_apps.subdomaintestmodule" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask\testsuite\test_apps\subdomaintestmodule\__init__.py")
+2014-12-17T10:18:17: Parsing complete
+2014-12-17T10:18:17: Analyzing "flask.app"
+2014-12-17T10:18:17: Analyzing "flask.blueprints"
+2014-12-17T10:18:17: Analyzing "flask.config"
+2014-12-17T10:18:17: Analyzing "flask.ctx"
+2014-12-17T10:18:17: Analyzing "flask.debughelpers"
+2014-12-17T10:18:17: Analyzing "flask.exthook"
+2014-12-17T10:18:17: Analyzing "flask.globals"
+2014-12-17T10:18:17: Analyzing "flask.helpers"
+2014-12-17T10:18:17: Analyzing "flask.json"
+2014-12-17T10:18:17: Analyzing "flask.logging"
+2014-12-17T10:18:17: Analyzing "flask.module"
+2014-12-17T10:18:17: Analyzing "flask.sessions"
+2014-12-17T10:18:17: Analyzing "flask.signals"
+2014-12-17T10:18:17: Analyzing "flask.templating"
+2014-12-17T10:18:17: Analyzing "flask.testing"
+2014-12-17T10:18:17: Analyzing "flask.views"
+2014-12-17T10:18:17: Analyzing "flask.wrappers"
+2014-12-17T10:18:17: Analyzing "flask._compat"
+2014-12-17T10:18:17: Analyzing "flask"
+2014-12-17T10:18:17: Analyzing "flask.ext"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.appctx"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.basic"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.blueprints"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.config"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.deprecations"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.examples"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.ext"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.helpers"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.regression"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.reqctx"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.signals"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.subclassing"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.templating"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.testing"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.views"
+2014-12-17T10:18:17: Analyzing "flask.testsuite"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.config_module_app"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flask_newext_simple"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.importerror"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.main_app"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.blueprintapp"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.blueprintapp.apps"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.blueprintapp.apps.admin"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.blueprintapp.apps.frontend"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.config_package_app"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flaskext.oldext_simple"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flaskext"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flaskext.oldext_package.submodule"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flaskext.oldext_package"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flask_broken.b"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flask_broken"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flask_newext_package.submodule"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.flask_newext_package"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.moduleapp"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.moduleapp.apps"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.moduleapp.apps.admin"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.moduleapp.apps.frontend"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.path.installed_package"
+2014-12-17T10:18:17: Analyzing "flask.testsuite.test_apps.subdomaintestmodule"
+2014-12-17T10:18:17: Starting analysis of 59 modules
+2014-12-17T10:18:18: Analysis complete
+2014-12-17T10:18:18: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask"
+2014-12-17T10:18:18: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\flask"
+2014-12-17T10:18:18: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2" with 40 files
+2014-12-17T10:18:19: Parsing "jinja2.bccache" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\bccache.py")
+2014-12-17T10:18:19: Parsing "jinja2.compiler" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\compiler.py")
+2014-12-17T10:18:19: Parsing "jinja2.constants" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\constants.py")
+2014-12-17T10:18:19: Parsing "jinja2.debug" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\debug.py")
+2014-12-17T10:18:19: Parsing "jinja2.defaults" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\defaults.py")
+2014-12-17T10:18:19: Parsing "jinja2.environment" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\environment.py")
+2014-12-17T10:18:19: Parsing "jinja2.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\exceptions.py")
+2014-12-17T10:18:19: Parsing "jinja2.ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\ext.py")
+2014-12-17T10:18:19: Parsing "jinja2.filters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\filters.py")
+2014-12-17T10:18:19: Parsing "jinja2.lexer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\lexer.py")
+2014-12-17T10:18:19: Parsing "jinja2.loaders" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\loaders.py")
+2014-12-17T10:18:19: Parsing "jinja2.meta" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\meta.py")
+2014-12-17T10:18:19: Parsing "jinja2.nodes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\nodes.py")
+2014-12-17T10:18:19: Parsing "jinja2.optimizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\optimizer.py")
+2014-12-17T10:18:19: Parsing "jinja2.parser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\parser.py")
+2014-12-17T10:18:19: Parsing "jinja2.runtime" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\runtime.py")
+2014-12-17T10:18:19: Parsing "jinja2.sandbox" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\sandbox.py")
+2014-12-17T10:18:19: Parsing "jinja2.tests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\tests.py")
+2014-12-17T10:18:19: Parsing "jinja2.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\utils.py")
+2014-12-17T10:18:19: Parsing "jinja2.visitor" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\visitor.py")
+2014-12-17T10:18:19: Parsing "jinja2._compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\_compat.py")
+2014-12-17T10:18:19: Parsing "jinja2._stringdefs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\_stringdefs.py")
+2014-12-17T10:18:19: Parsing "jinja2" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\__init__.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.api" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\api.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.bytecode_cache" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\bytecode_cache.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.core_tags" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\core_tags.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.debug" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\debug.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.doctests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\doctests.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\ext.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.filters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\filters.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.imports" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\imports.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.inheritance" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\inheritance.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.lexnparse" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\lexnparse.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.loader" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\loader.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.regression" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\regression.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.security" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\security.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.tests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\tests.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\utils.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\__init__.py")
+2014-12-17T10:18:19: Parsing "jinja2.testsuite.res" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2\testsuite\res\__init__.py")
+2014-12-17T10:18:19: Parsing complete
+2014-12-17T10:18:19: Analyzing "jinja2.bccache"
+2014-12-17T10:18:19: Analyzing "jinja2.compiler"
+2014-12-17T10:18:19: Analyzing "jinja2.constants"
+2014-12-17T10:18:19: Analyzing "jinja2.debug"
+2014-12-17T10:18:19: Analyzing "jinja2.defaults"
+2014-12-17T10:18:19: Analyzing "jinja2.environment"
+2014-12-17T10:18:19: Analyzing "jinja2.exceptions"
+2014-12-17T10:18:19: Analyzing "jinja2.ext"
+2014-12-17T10:18:19: Analyzing "jinja2.filters"
+2014-12-17T10:18:19: Analyzing "jinja2.lexer"
+2014-12-17T10:18:19: Analyzing "jinja2.loaders"
+2014-12-17T10:18:19: Analyzing "jinja2.meta"
+2014-12-17T10:18:19: Analyzing "jinja2.nodes"
+2014-12-17T10:18:19: Analyzing "jinja2.optimizer"
+2014-12-17T10:18:19: Analyzing "jinja2.parser"
+2014-12-17T10:18:19: Analyzing "jinja2.runtime"
+2014-12-17T10:18:19: Analyzing "jinja2.sandbox"
+2014-12-17T10:18:19: Analyzing "jinja2.tests"
+2014-12-17T10:18:19: Analyzing "jinja2.utils"
+2014-12-17T10:18:19: Analyzing "jinja2.visitor"
+2014-12-17T10:18:19: Analyzing "jinja2._compat"
+2014-12-17T10:18:19: Analyzing "jinja2._stringdefs"
+2014-12-17T10:18:19: Analyzing "jinja2"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.api"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.bytecode_cache"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.core_tags"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.debug"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.doctests"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.ext"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.filters"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.imports"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.inheritance"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.lexnparse"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.loader"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.regression"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.security"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.tests"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.utils"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite"
+2014-12-17T10:18:19: Analyzing "jinja2.testsuite.res"
+2014-12-17T10:18:19: Starting analysis of 40 modules
+2014-12-17T10:18:21: Analysis complete
+2014-12-17T10:18:21: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2"
+2014-12-17T10:18:21: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\jinja2"
+2014-12-17T10:18:21: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe" with 5 files
+2014-12-17T10:18:22: Parsing "markupsafe.tests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe\tests.py")
+2014-12-17T10:18:22: Parsing "markupsafe._compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe\_compat.py")
+2014-12-17T10:18:22: Parsing "markupsafe._constants" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe\_constants.py")
+2014-12-17T10:18:22: Parsing "markupsafe._native" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe\_native.py")
+2014-12-17T10:18:22: Parsing "markupsafe" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe\__init__.py")
+2014-12-17T10:18:22: Parsing complete
+2014-12-17T10:18:22: Analyzing "markupsafe.tests"
+2014-12-17T10:18:22: Analyzing "markupsafe._compat"
+2014-12-17T10:18:22: Analyzing "markupsafe._constants"
+2014-12-17T10:18:22: Analyzing "markupsafe._native"
+2014-12-17T10:18:22: Analyzing "markupsafe"
+2014-12-17T10:18:22: Starting analysis of 5 modules
+2014-12-17T10:18:22: Analysis complete
+2014-12-17T10:18:22: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe"
+2014-12-17T10:18:22: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\markupsafe"
+2014-12-17T10:18:22: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip" with 178 files
+2014-12-17T10:18:24: Parsing "pip.basecommand" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\basecommand.py")
+2014-12-17T10:18:24: Parsing "pip.baseparser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\baseparser.py")
+2014-12-17T10:18:24: Parsing "pip.cmdoptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\cmdoptions.py")
+2014-12-17T10:18:24: Parsing "pip.download" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\download.py")
+2014-12-17T10:18:24: Parsing "pip.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\exceptions.py")
+2014-12-17T10:18:24: Parsing "pip.index" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\index.py")
+2014-12-17T10:18:24: Parsing "pip.locations" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\locations.py")
+2014-12-17T10:18:24: Parsing "pip.log" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\log.py")
+2014-12-17T10:18:24: Parsing "pip.pep425tags" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\pep425tags.py")
+2014-12-17T10:18:24: Parsing "pip.req" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\req.py")
+2014-12-17T10:18:24: Parsing "pip.runner" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\runner.py")
+2014-12-17T10:18:24: Parsing "pip.status_codes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\status_codes.py")
+2014-12-17T10:18:24: Parsing "pip.util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\util.py")
+2014-12-17T10:18:24: Parsing "pip.wheel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\wheel.py")
+2014-12-17T10:18:24: Parsing "pip" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\__init__.py")
+2014-12-17T10:18:24: Parsing "pip.__main__" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\__main__.py")
+2014-12-17T10:18:24: Parsing "pip.backwardcompat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\backwardcompat\__init__.py")
+2014-12-17T10:18:24: Parsing "pip.commands.bundle" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\bundle.py")
+2014-12-17T10:18:24: Parsing "pip.commands.completion" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\completion.py")
+2014-12-17T10:18:24: Parsing "pip.commands.freeze" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\freeze.py")
+2014-12-17T10:18:24: Parsing "pip.commands.help" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\help.py")
+2014-12-17T10:18:24: Parsing "pip.commands.install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\install.py")
+2014-12-17T10:18:24: Parsing "pip.commands.list" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\list.py")
+2014-12-17T10:18:24: Parsing "pip.commands.search" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\search.py")
+2014-12-17T10:18:24: Parsing "pip.commands.show" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\show.py")
+2014-12-17T10:18:24: Parsing "pip.commands.uninstall" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\uninstall.py")
+2014-12-17T10:18:24: Parsing "pip.commands.unzip" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\unzip.py")
+2014-12-17T10:18:24: Parsing "pip.commands.wheel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\wheel.py")
+2014-12-17T10:18:24: Parsing "pip.commands.zip" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\zip.py")
+2014-12-17T10:18:24: Parsing "pip.commands" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\commands\__init__.py")
+2014-12-17T10:18:24: Parsing "pip.vcs.bazaar" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\bazaar.py")
+2014-12-17T10:18:24: Parsing "pip.vcs.git" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\git.py")
+2014-12-17T10:18:24: Parsing "pip.vcs.mercurial" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\mercurial.py")
+2014-12-17T10:18:24: Parsing "pip.vcs.subversion" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\subversion.py")
+2014-12-17T10:18:24: Parsing "pip.vcs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\vcs\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.pkg_resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\pkg_resources.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.six" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\six.py")
+2014-12-17T10:18:24: Parsing "pip._vendor" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.colorama.ansi" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.colorama.ansitowin32" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.colorama.initialise" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.colorama.win32" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.colorama.winterm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.colorama" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.database" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.index" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.locators" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.manifest" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.markers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.metadata" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.scripts" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.version" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib.wheel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib._backport.misc" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib._backport.shutil" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib._backport.sysconfig" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib._backport.tarfile" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.distlib._backport" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.constants" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.html5parser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.ihatexml" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\ihatexml.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.inputstream" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\inputstream.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.sanitizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\sanitizer.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.tokenizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\tokenizer.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\utils.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters.lint" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters.optionaltags" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters.sanitizer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters.whitespace" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\_base.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.filters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.serializer.htmlserializer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\serializer\htmlserializer.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.serializer" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\serializer\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treeadapters.sax" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treeadapters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treebuilders.dom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treebuilders.etree" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treebuilders._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\_base.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treebuilders" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers.dom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers.etree" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers.genshistream" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshistream.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers.lxmletree" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\lxmletree.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers.pulldom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\pulldom.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\_base.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.treewalkers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.trie.datrie" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\datrie.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.trie.py" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\py.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.trie._base" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\_base.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.html5lib.trie" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\html5lib\trie\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.adapters" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.api" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.auth" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.certs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.cookies" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.hooks" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.models" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.sessions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.status_codes" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.structures" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.constants" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.escprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.escsm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.chardet" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.connection" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.fields" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.request" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.response" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3._collections" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.packages" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2014-12-17T10:18:24: Parsing "pip._vendor.requests.packages.urllib3.util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2014-12-17T10:18:24: Parsing "pip._vendor._markerlib.markers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\_markerlib\markers.py")
+2014-12-17T10:18:24: Parsing "pip._vendor._markerlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip\_vendor\_markerlib\__init__.py")
+2014-12-17T10:18:24: Parsing complete
+2014-12-17T10:18:24: Analyzing "pip.basecommand"
+2014-12-17T10:18:24: Analyzing "pip.baseparser"
+2014-12-17T10:18:24: Analyzing "pip.cmdoptions"
+2014-12-17T10:18:24: Analyzing "pip.download"
+2014-12-17T10:18:24: Analyzing "pip.exceptions"
+2014-12-17T10:18:24: Analyzing "pip.index"
+2014-12-17T10:18:24: Analyzing "pip.locations"
+2014-12-17T10:18:24: Analyzing "pip.log"
+2014-12-17T10:18:24: Analyzing "pip.pep425tags"
+2014-12-17T10:18:24: Analyzing "pip.req"
+2014-12-17T10:18:24: Analyzing "pip.runner"
+2014-12-17T10:18:24: Analyzing "pip.status_codes"
+2014-12-17T10:18:24: Analyzing "pip.util"
+2014-12-17T10:18:24: Analyzing "pip.wheel"
+2014-12-17T10:18:24: Analyzing "pip"
+2014-12-17T10:18:24: Analyzing "pip.__main__"
+2014-12-17T10:18:24: Analyzing "pip.backwardcompat"
+2014-12-17T10:18:24: Analyzing "pip.commands.bundle"
+2014-12-17T10:18:24: Analyzing "pip.commands.completion"
+2014-12-17T10:18:24: Analyzing "pip.commands.freeze"
+2014-12-17T10:18:24: Analyzing "pip.commands.help"
+2014-12-17T10:18:24: Analyzing "pip.commands.install"
+2014-12-17T10:18:24: Analyzing "pip.commands.list"
+2014-12-17T10:18:24: Analyzing "pip.commands.search"
+2014-12-17T10:18:24: Analyzing "pip.commands.show"
+2014-12-17T10:18:24: Analyzing "pip.commands.uninstall"
+2014-12-17T10:18:24: Analyzing "pip.commands.unzip"
+2014-12-17T10:18:24: Analyzing "pip.commands.wheel"
+2014-12-17T10:18:24: Analyzing "pip.commands.zip"
+2014-12-17T10:18:24: Analyzing "pip.commands"
+2014-12-17T10:18:24: Analyzing "pip.vcs.bazaar"
+2014-12-17T10:18:24: Analyzing "pip.vcs.git"
+2014-12-17T10:18:24: Analyzing "pip.vcs.mercurial"
+2014-12-17T10:18:24: Analyzing "pip.vcs.subversion"
+2014-12-17T10:18:24: Analyzing "pip.vcs"
+2014-12-17T10:18:24: Analyzing "pip._vendor.pkg_resources"
+2014-12-17T10:18:24: Analyzing "pip._vendor.six"
+2014-12-17T10:18:24: Analyzing "pip._vendor"
+2014-12-17T10:18:24: Analyzing "pip._vendor.colorama.ansi"
+2014-12-17T10:18:24: Analyzing "pip._vendor.colorama.ansitowin32"
+2014-12-17T10:18:24: Analyzing "pip._vendor.colorama.initialise"
+2014-12-17T10:18:24: Analyzing "pip._vendor.colorama.win32"
+2014-12-17T10:18:24: Analyzing "pip._vendor.colorama.winterm"
+2014-12-17T10:18:24: Analyzing "pip._vendor.colorama"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.compat"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.database"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.index"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.locators"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.manifest"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.markers"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.metadata"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.resources"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.scripts"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.util"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.version"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib.wheel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib._backport.misc"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib._backport.shutil"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib._backport.tarfile"
+2014-12-17T10:18:24: Analyzing "pip._vendor.distlib._backport"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.constants"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.html5parser"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.ihatexml"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.inputstream"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.sanitizer"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.tokenizer"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.utils"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters.lint"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters._base"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.filters"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.serializer.htmlserializer"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.serializer"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treeadapters"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treebuilders._base"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treebuilders"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers.genshistream"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers.lxmletree"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers.pulldom"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers._base"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.treewalkers"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.trie.datrie"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.trie.py"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.trie._base"
+2014-12-17T10:18:24: Analyzing "pip._vendor.html5lib.trie"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.adapters"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.api"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.auth"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.certs"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.compat"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.cookies"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.exceptions"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.hooks"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.models"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.sessions"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.status_codes"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.structures"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.utils"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.chardet"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2014-12-17T10:18:24: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2014-12-17T10:18:24: Analyzing "pip._vendor._markerlib.markers"
+2014-12-17T10:18:24: Analyzing "pip._vendor._markerlib"
+2014-12-17T10:18:24: Starting analysis of 178 modules
+2014-12-17T10:18:28: Analysis complete
+2014-12-17T10:18:28: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip"
+2014-12-17T10:18:29: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\pip"
+2014-12-17T10:18:29: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools" with 55 files
+2014-12-17T10:18:31: Parsing "setuptools.archive_util" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\archive_util.py")
+2014-12-17T10:18:31: Parsing "setuptools.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\compat.py")
+2014-12-17T10:18:31: Parsing "setuptools.depends" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\depends.py")
+2014-12-17T10:18:31: Parsing "setuptools.dist" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\dist.py")
+2014-12-17T10:18:31: Parsing "setuptools.extension" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\extension.py")
+2014-12-17T10:18:31: Parsing "setuptools.lib2to3_ex" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2014-12-17T10:18:31: Parsing "setuptools.package_index" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\package_index.py")
+2014-12-17T10:18:31: Parsing "setuptools.py26compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\py26compat.py")
+2014-12-17T10:18:31: Parsing "setuptools.py27compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\py27compat.py")
+2014-12-17T10:18:31: Parsing "setuptools.py31compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\py31compat.py")
+2014-12-17T10:18:31: Parsing "setuptools.sandbox" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\sandbox.py")
+2014-12-17T10:18:31: Parsing "setuptools.ssl_support" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\ssl_support.py")
+2014-12-17T10:18:31: Parsing "setuptools.svn_utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\svn_utils.py")
+2014-12-17T10:18:31: Parsing "setuptools.version" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\version.py")
+2014-12-17T10:18:31: Parsing "setuptools" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\__init__.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.alias" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\alias.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.bdist_egg" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.bdist_rpm" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.bdist_wininst" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.build_ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\build_ext.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.build_py" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\build_py.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.develop" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\develop.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.easy_install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\easy_install.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.egg_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\egg_info.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.install_egg_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.install_lib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install_lib.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.install_scripts" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.register" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\register.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.rotate" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\rotate.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.saveopts" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\saveopts.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.sdist" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\sdist.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.setopt" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\setopt.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.test" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\test.py")
+2014-12-17T10:18:31: Parsing "setuptools.command.upload_docs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2014-12-17T10:18:31: Parsing "setuptools.command" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\command\__init__.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.doctest" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\doctest.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.environment" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\environment.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.py26compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\py26compat.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.server" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\server.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_bdist_egg" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_bdist_egg.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_build_ext" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_build_ext.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_develop" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_develop.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_dist_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_dist_info.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_easy_install" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_easy_install.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_egg_info" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_egg_info.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_markerlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_markerlib.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_packageindex" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_packageindex.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_resources" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_resources.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_sandbox" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_sandbox.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_sdist" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_sdist.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_svn" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_svn.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_test" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_test.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests.test_upload_docs" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\test_upload_docs.py")
+2014-12-17T10:18:31: Parsing "setuptools.tests" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools\tests\__init__.py")
+2014-12-17T10:18:31: Parsing complete
+2014-12-17T10:18:31: Analyzing "setuptools.archive_util"
+2014-12-17T10:18:31: Analyzing "setuptools.compat"
+2014-12-17T10:18:31: Analyzing "setuptools.depends"
+2014-12-17T10:18:31: Analyzing "setuptools.dist"
+2014-12-17T10:18:31: Analyzing "setuptools.extension"
+2014-12-17T10:18:31: Analyzing "setuptools.lib2to3_ex"
+2014-12-17T10:18:31: Analyzing "setuptools.package_index"
+2014-12-17T10:18:31: Analyzing "setuptools.py26compat"
+2014-12-17T10:18:31: Analyzing "setuptools.py27compat"
+2014-12-17T10:18:31: Analyzing "setuptools.py31compat"
+2014-12-17T10:18:31: Analyzing "setuptools.sandbox"
+2014-12-17T10:18:31: Analyzing "setuptools.ssl_support"
+2014-12-17T10:18:31: Analyzing "setuptools.svn_utils"
+2014-12-17T10:18:31: Analyzing "setuptools.version"
+2014-12-17T10:18:31: Analyzing "setuptools"
+2014-12-17T10:18:31: Analyzing "setuptools.command.alias"
+2014-12-17T10:18:31: Analyzing "setuptools.command.bdist_egg"
+2014-12-17T10:18:31: Analyzing "setuptools.command.bdist_rpm"
+2014-12-17T10:18:31: Analyzing "setuptools.command.bdist_wininst"
+2014-12-17T10:18:31: Analyzing "setuptools.command.build_ext"
+2014-12-17T10:18:31: Analyzing "setuptools.command.build_py"
+2014-12-17T10:18:31: Analyzing "setuptools.command.develop"
+2014-12-17T10:18:31: Analyzing "setuptools.command.easy_install"
+2014-12-17T10:18:31: Analyzing "setuptools.command.egg_info"
+2014-12-17T10:18:31: Analyzing "setuptools.command.install"
+2014-12-17T10:18:31: Analyzing "setuptools.command.install_egg_info"
+2014-12-17T10:18:31: Analyzing "setuptools.command.install_lib"
+2014-12-17T10:18:31: Analyzing "setuptools.command.install_scripts"
+2014-12-17T10:18:31: Analyzing "setuptools.command.register"
+2014-12-17T10:18:31: Analyzing "setuptools.command.rotate"
+2014-12-17T10:18:31: Analyzing "setuptools.command.saveopts"
+2014-12-17T10:18:31: Analyzing "setuptools.command.sdist"
+2014-12-17T10:18:31: Analyzing "setuptools.command.setopt"
+2014-12-17T10:18:31: Analyzing "setuptools.command.test"
+2014-12-17T10:18:31: Analyzing "setuptools.command.upload_docs"
+2014-12-17T10:18:31: Analyzing "setuptools.command"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.doctest"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.environment"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.py26compat"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.server"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_bdist_egg"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_build_ext"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_develop"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_dist_info"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_easy_install"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_egg_info"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_markerlib"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_packageindex"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_resources"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_sandbox"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_sdist"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_svn"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_test"
+2014-12-17T10:18:31: Analyzing "setuptools.tests.test_upload_docs"
+2014-12-17T10:18:31: Analyzing "setuptools.tests"
+2014-12-17T10:18:31: Starting analysis of 55 modules
+2014-12-17T10:18:32: Analysis complete
+2014-12-17T10:18:32: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools"
+2014-12-17T10:18:32: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\setuptools"
+2014-12-17T10:18:32: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug" with 62 files
+2014-12-17T10:18:33: Parsing "werkzeug.datastructures" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\datastructures.py")
+2014-12-17T10:18:33: Parsing "werkzeug.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\exceptions.py")
+2014-12-17T10:18:33: Parsing "werkzeug.formparser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\formparser.py")
+2014-12-17T10:18:33: Parsing "werkzeug.http" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\http.py")
+2014-12-17T10:18:33: Parsing "werkzeug.local" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\local.py")
+2014-12-17T10:18:33: Parsing "werkzeug.posixemulation" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\posixemulation.py")
+2014-12-17T10:18:33: Parsing "werkzeug.routing" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\routing.py")
+2014-12-17T10:18:33: Parsing "werkzeug.script" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\script.py")
+2014-12-17T10:18:33: Parsing "werkzeug.security" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\security.py")
+2014-12-17T10:18:33: Parsing "werkzeug.serving" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\serving.py")
+2014-12-17T10:18:33: Parsing "werkzeug.test" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\test.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testapp" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testapp.py")
+2014-12-17T10:18:33: Parsing "werkzeug.urls" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\urls.py")
+2014-12-17T10:18:33: Parsing "werkzeug.useragents" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\useragents.py")
+2014-12-17T10:18:33: Parsing "werkzeug.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\utils.py")
+2014-12-17T10:18:33: Parsing "werkzeug.wrappers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\wrappers.py")
+2014-12-17T10:18:33: Parsing "werkzeug.wsgi" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\wsgi.py")
+2014-12-17T10:18:33: Parsing "werkzeug._compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\_compat.py")
+2014-12-17T10:18:33: Parsing "werkzeug._internal" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\_internal.py")
+2014-12-17T10:18:33: Parsing "werkzeug" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\__init__.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.atom" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\atom.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.cache" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\cache.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.fixers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\fixers.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.iterio" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\iterio.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.jsrouting" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\jsrouting.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.limiter" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\limiter.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.lint" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\lint.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.profiler" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\profiler.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.securecookie" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\securecookie.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.sessions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\sessions.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.testtools" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\testtools.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib.wrappers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\wrappers.py")
+2014-12-17T10:18:33: Parsing "werkzeug.contrib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\contrib\__init__.py")
+2014-12-17T10:18:33: Parsing "werkzeug.debug.console" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\debug\console.py")
+2014-12-17T10:18:33: Parsing "werkzeug.debug.repr" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\debug\repr.py")
+2014-12-17T10:18:33: Parsing "werkzeug.debug.tbtools" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\debug\tbtools.py")
+2014-12-17T10:18:33: Parsing "werkzeug.debug" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\debug\__init__.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\compat.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.datastructures" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\datastructures.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.debug" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\debug.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\exceptions.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.formparser" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\formparser.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.http" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\http.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.internal" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\internal.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.local" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\local.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.routing" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\routing.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.security" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\security.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.serving" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\serving.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.test" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\test.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.urls" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\urls.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\utils.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.wrappers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\wrappers.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.wsgi" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\wsgi.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\__init__.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib.cache" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\cache.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib.fixers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\fixers.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib.iterio" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\iterio.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib.securecookie" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\securecookie.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib.sessions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\sessions.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib.wrappers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\wrappers.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.contrib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\contrib\__init__.py")
+2014-12-17T10:18:33: Parsing "werkzeug.testsuite.multipart.collect" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug\testsuite\multipart\collect.py")
+2014-12-17T10:18:33: Parsing complete
+2014-12-17T10:18:33: Analyzing "werkzeug.datastructures"
+2014-12-17T10:18:33: Analyzing "werkzeug.exceptions"
+2014-12-17T10:18:33: Analyzing "werkzeug.formparser"
+2014-12-17T10:18:33: Analyzing "werkzeug.http"
+2014-12-17T10:18:33: Analyzing "werkzeug.local"
+2014-12-17T10:18:33: Analyzing "werkzeug.posixemulation"
+2014-12-17T10:18:33: Analyzing "werkzeug.routing"
+2014-12-17T10:18:33: Analyzing "werkzeug.script"
+2014-12-17T10:18:33: Analyzing "werkzeug.security"
+2014-12-17T10:18:33: Analyzing "werkzeug.serving"
+2014-12-17T10:18:33: Analyzing "werkzeug.test"
+2014-12-17T10:18:33: Analyzing "werkzeug.testapp"
+2014-12-17T10:18:33: Analyzing "werkzeug.urls"
+2014-12-17T10:18:33: Analyzing "werkzeug.useragents"
+2014-12-17T10:18:33: Analyzing "werkzeug.utils"
+2014-12-17T10:18:33: Analyzing "werkzeug.wrappers"
+2014-12-17T10:18:33: Analyzing "werkzeug.wsgi"
+2014-12-17T10:18:33: Analyzing "werkzeug._compat"
+2014-12-17T10:18:33: Analyzing "werkzeug._internal"
+2014-12-17T10:18:33: Analyzing "werkzeug"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.atom"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.cache"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.fixers"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.iterio"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.jsrouting"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.limiter"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.lint"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.profiler"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.securecookie"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.sessions"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.testtools"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib.wrappers"
+2014-12-17T10:18:33: Analyzing "werkzeug.contrib"
+2014-12-17T10:18:33: Analyzing "werkzeug.debug.console"
+2014-12-17T10:18:33: Analyzing "werkzeug.debug.repr"
+2014-12-17T10:18:33: Analyzing "werkzeug.debug.tbtools"
+2014-12-17T10:18:33: Analyzing "werkzeug.debug"
+2014-12-17T10:18:33: Analyzing "werkzeug.testsuite.compat"
+2014-12-17T10:18:33: Analyzing "werkzeug.testsuite.datastructures"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.debug"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.exceptions"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.formparser"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.http"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.internal"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.local"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.routing"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.security"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.serving"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.test"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.urls"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.utils"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.wrappers"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.wsgi"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib.cache"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib.fixers"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib.iterio"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib.securecookie"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib.sessions"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib.wrappers"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.contrib"
+2014-12-17T10:18:34: Analyzing "werkzeug.testsuite.multipart.collect"
+2014-12-17T10:18:34: Starting analysis of 62 modules
+2014-12-17T10:18:37: Analysis complete
+2014-12-17T10:18:37: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug"
+2014-12-17T10:18:37: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\werkzeug"
+2014-12-17T10:18:37: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib" with 2 files
+2014-12-17T10:18:39: Parsing "_markerlib.markers" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib\markers.py")
+2014-12-17T10:18:39: Parsing "_markerlib" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib\__init__.py")
+2014-12-17T10:18:39: Parsing complete
+2014-12-17T10:18:39: Analyzing "_markerlib.markers"
+2014-12-17T10:18:39: Analyzing "_markerlib"
+2014-12-17T10:18:39: Starting analysis of 2 modules
+2014-12-17T10:18:39: Analysis complete
+2014-12-17T10:18:39: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib"
+2014-12-17T10:18:39: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\_markerlib"
+2014-12-17T10:18:39: Deleting 0 files
+2014-12-17T10:18:39: astropy.CallDepth = 0
+2014-12-17T10:18:39: matplotlib.CallDepth = 3
+2014-12-17T10:18:39: pandas.CallDepth = 0
+2014-12-17T10:18:39: sympy.CallDepth = 0
+2014-12-17T10:18:39: Start group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis" with 8 files
+2014-12-17T10:18:40: Parsing "redis.client" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\client.py")
+2014-12-17T10:18:40: Parsing "redis.connection" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\connection.py")
+2014-12-17T10:18:40: Parsing "redis.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\exceptions.py")
+2014-12-17T10:18:40: Parsing "redis.lock" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\lock.py")
+2014-12-17T10:18:40: Parsing "redis.sentinel" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\sentinel.py")
+2014-12-17T10:18:40: Parsing "redis.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\utils.py")
+2014-12-17T10:18:40: Parsing "redis._compat" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\_compat.py")
+2014-12-17T10:18:40: Parsing "redis" ("C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis\__init__.py")
+2014-12-17T10:18:40: Parsing complete
+2014-12-17T10:18:40: Analyzing "redis.client"
+2014-12-17T10:18:40: Analyzing "redis.connection"
+2014-12-17T10:18:40: Analyzing "redis.exceptions"
+2014-12-17T10:18:40: Analyzing "redis.lock"
+2014-12-17T10:18:40: Analyzing "redis.sentinel"
+2014-12-17T10:18:40: Analyzing "redis.utils"
+2014-12-17T10:18:40: Analyzing "redis._compat"
+2014-12-17T10:18:40: Analyzing "redis"
+2014-12-17T10:18:40: Starting analysis of 8 modules
+2014-12-17T10:18:41: Analysis complete
+2014-12-17T10:18:41: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis"
+2014-12-17T10:18:41: End of group "C:\Users\chrhar\Source\Repos\flask\Work\Trivia - Module 5\env\Lib\site-packages\redis"

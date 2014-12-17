@@ -1,0 +1,6 @@
+setuptools
+sys
+glob
+_install
+DistutilsArgError
+install
