@@ -18,6 +18,7 @@
     <RootNamespace>TriviaMVA</RootNamespace>
     <InterpreterId>{979722f2-bf5e-47c3-a447-216598c5a9b5}</InterpreterId>
     <InterpreterVersion>3.4</InterpreterVersion>
+    <NameOfLastUsedPublishProfile>MVAFlask</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -34,6 +35,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="MVAFlask.pubxml" />
     <Content Include="requirements.txt" />
     <Content Include="templates\AnswerQuestion.html" />
     <Content Include="templates\Correct.html" />

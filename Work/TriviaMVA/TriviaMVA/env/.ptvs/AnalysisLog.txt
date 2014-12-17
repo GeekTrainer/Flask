@@ -1584,3 +1584,34 @@ C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Micro
 2014-12-17T13:35:59: Saving group "C:\Users\sibach\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis"
 2014-12-17T13:35:59: End of group "C:\Users\sibach\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis"
 2014-12-17T13:36:00: Deleting 0 files
+
+2014-12-17T14:57:26: Start analysis
+2014-12-17T14:57:26: IncludeModulesFromModulePath = win32com
+2014-12-17T14:57:27: Deleting 0 files
+2014-12-17T14:57:27: astropy.CallDepth = 0
+2014-12-17T14:57:27: matplotlib.CallDepth = 3
+2014-12-17T14:57:27: pandas.CallDepth = 0
+2014-12-17T14:57:27: sympy.CallDepth = 0
+2014-12-17T14:57:27: Start group "C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis" with 8 files
+2014-12-17T14:57:28: Parsing "redis.client" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\client.py")
+2014-12-17T14:57:28: Parsing "redis.connection" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\connection.py")
+2014-12-17T14:57:28: Parsing "redis.exceptions" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\exceptions.py")
+2014-12-17T14:57:28: Parsing "redis.lock" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\lock.py")
+2014-12-17T14:57:28: Parsing "redis.sentinel" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\sentinel.py")
+2014-12-17T14:57:28: Parsing "redis.utils" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\utils.py")
+2014-12-17T14:57:28: Parsing "redis._compat" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\_compat.py")
+2014-12-17T14:57:28: Parsing "redis" ("C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis\__init__.py")
+2014-12-17T14:57:28: Parsing complete
+2014-12-17T14:57:28: Analyzing "redis.client"
+2014-12-17T14:57:28: Analyzing "redis.connection"
+2014-12-17T14:57:28: Analyzing "redis.exceptions"
+2014-12-17T14:57:28: Analyzing "redis.lock"
+2014-12-17T14:57:28: Analyzing "redis.sentinel"
+2014-12-17T14:57:28: Analyzing "redis.utils"
+2014-12-17T14:57:28: Analyzing "redis._compat"
+2014-12-17T14:57:28: Analyzing "redis"
+2014-12-17T14:57:28: Starting analysis of 8 modules
+2014-12-17T14:57:29: Analysis complete
+2014-12-17T14:57:29: Saving group "C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis"
+2014-12-17T14:57:29: End of group "C:\Users\chrhar\Source\Repos\flask\Work\TriviaMVA\TriviaMVA\env\Lib\site-packages\redis"
+2014-12-17T14:57:29: Deleting 0 files

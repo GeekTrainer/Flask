@@ -4,7 +4,7 @@ import redis;
 
 
 #Connect to redis data store
-r = redis.StrictRedis(host='localhost',port=6379,db=0, charset="utf-8", decode_responses=True);
+r = redis.StrictRedis(host='flaskmva.redis.cache.windows.net',port=6380,ssl=True,db=0, charset="utf-8", decode_responses=True, password='kxmLxHPfw5Xx8piaTlyv5VrPBBkKMoNTG6TNta+Pd5I=');
 
 # server/
 @app.route('/')
