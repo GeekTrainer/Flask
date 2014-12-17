@@ -16,7 +16,7 @@
     <PythonWsgiHandler>{StartupModule}.wsgi_app</PythonWsgiHandler>
     <Name>Trivia</Name>
     <RootNamespace>Trivia</RootNamespace>
-    <InterpreterId>{5f45cf64-f470-4f48-9d47-f1025dc61fbe}</InterpreterId>
+    <InterpreterId>{d002b4e7-936b-45f5-9399-5144a9b5796b}</InterpreterId>
     <InterpreterVersion>3.4</InterpreterVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -37,8 +37,11 @@
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="templates\" />
+  </ItemGroup>
+  <ItemGroup>
     <Interpreter Include="env\">
-      <Id>{5f45cf64-f470-4f48-9d47-f1025dc61fbe}</Id>
+      <Id>{d002b4e7-936b-45f5-9399-5144a9b5796b}</Id>
       <BaseInterpreter>{2af0f10d-7135-4994-9156-5d01c9c11b7e}</BaseInterpreter>
       <Version>3.4</Version>
       <Description>env (Python 3.4)</Description>
