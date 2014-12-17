@@ -17,12 +17,14 @@ def about():
 @app.route('/question/<title>', methods=['GET', 'POST'])
 def question(title):
     if request.method == 'GET':
+        # Redis code to load question
         question = r.get(title+':question')
         return render_template('AnswerQuestion.html',
                                question = question)
     elif request.method == 'POST':
         submittedAnswer = request.form['submittedAnswer'];
 
+        # Redis code to load answer
         answer=r.get(title+':answer')
 
         if submittedAnswer == answer:
@@ -41,6 +43,7 @@ def submit():
         answer = request.form['answer'];
         title = request.form['title'];
 
+        # Redis code to save question and answer
         r.set(title+':question',question);
         r.set(title+':answer',answer);      
 
